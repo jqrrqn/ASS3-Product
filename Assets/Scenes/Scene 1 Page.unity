@@ -1153,8 +1153,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u201COn one morning, John Mark and his father were preparing to leave
-    for Sunday mass.\u201D"
+  m_text: On one morning, John Mark and his father were preparing to leave for Sunday
+    mass.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bac5bbd7ca8324974b65d3562fb352e6, type: 2}
   m_sharedMaterial: {fileID: -6774977436750214036, guid: bac5bbd7ca8324974b65d3562fb352e6, type: 2}
@@ -1327,7 +1327,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.56078434, g: 1, b: 0.77924424, a: 0.6039216}
+  m_Color: {r: 0.56078434, g: 1, b: 0.77924424, a: 0.8784314}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
