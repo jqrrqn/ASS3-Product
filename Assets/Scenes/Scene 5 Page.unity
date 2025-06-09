@@ -1406,8 +1406,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Upon hearing this, John Mark began to weep quietly. His sore hands had
-    simply convinced the boy that his father did not love him.
+  m_text: Immediately, John Mark ran towards Michael's house clutching the cash in
+    his hand. When he arrived, he instinctively thought to gift the money directly
+    until he realised that it'd be best to be subtle. With that in mind, John Mark
+    placed the money into Michael's familiy's mailbox and then ran off feeling blessed.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bac5bbd7ca8324974b65d3562fb352e6, type: 2}
   m_sharedMaterial: {fileID: -6774977436750214036, guid: bac5bbd7ca8324974b65d3562fb352e6, type: 2}
@@ -1434,8 +1436,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 70
-  m_fontSizeBase: 70
+  m_fontSize: 55
+  m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

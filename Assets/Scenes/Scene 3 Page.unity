@@ -632,7 +632,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -549, y: -89}
+  m_AnchoredPosition: {x: -549, y: -125}
   m_SizeDelta: {x: 622.6066, y: 644.2019}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &298133232
@@ -1046,8 +1046,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -5, y: -199}
-  m_SizeDelta: {x: 2158.0688, y: 275.5905}
+  m_AnchoredPosition: {x: -5, y: -213.7821}
+  m_SizeDelta: {x: 2158.069, y: 342.11}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &664767939
 MonoBehaviour:
@@ -1780,8 +1780,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0070343018, y: 2}
-  m_SizeDelta: {x: 2115.6, y: 251.9806}
+  m_AnchoredPosition: {x: -0.0070343018, y: 0.0010128}
+  m_SizeDelta: {x: 2115.6, y: 323.63}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1108461588
 MonoBehaviour:
@@ -1803,9 +1803,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Without hesitation, the angry father grabbed the boy\u2019s hands and
-    smacked them firmly with a wooden spoon causing the child to burst into tears.
-    They left for the church shortly after."
+  m_text: When John Mark got to class, he promptly sat down with his group of friends,
+    only to notice that something seemed strange. His friend Michael was slumped
+    in his chair with a pained expression. "What's wrong?" John Mark asked. Michael
+    explained that his father had lost his job recently, meaning that he might not
+    be able to attend school anymore so that his family won't starve.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bac5bbd7ca8324974b65d3562fb352e6, type: 2}
   m_sharedMaterial: {fileID: -6774977436750214036, guid: bac5bbd7ca8324974b65d3562fb352e6, type: 2}
@@ -1832,8 +1834,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 65
-  m_fontSizeBase: 65
+  m_fontSize: 55
+  m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1918,7 +1920,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5, y: -210}
+  m_AnchoredPosition: {x: -5, y: -246}
   m_SizeDelta: {x: 125, y: 125}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1303485883
@@ -3402,7 +3404,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 532, y: -89}
+  m_AnchoredPosition: {x: 532, y: -125}
   m_SizeDelta: {x: 622.6066, y: 644.2019}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1953509264

@@ -1263,8 +1263,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -8, y: -200}
-  m_SizeDelta: {x: 2133.651, y: 280.183}
+  m_AnchoredPosition: {x: -8, y: -231.599}
+  m_SizeDelta: {x: 2133.651, y: 343.381}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &664767939
 MonoBehaviour:
@@ -1953,8 +1953,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.00046349, y: 1}
-  m_SizeDelta: {x: 2090, y: 254.6019}
+  m_AnchoredPosition: {x: -0.00046349, y: -0.000099421}
+  m_SizeDelta: {x: 2090, y: 343.38}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1108461588
 MonoBehaviour:
@@ -1976,9 +1976,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "That day\u2019s sermon was about love. The priest uttered the words, \u201Clove
-    is patient, love is kind\u2026it does not dishonour others\u2026it is not easily
-    angered.\u201D"
+  m_text: 'After school, John Mark walked home feeling sad and conflicted. He wanted
+    to help his friend Michael, but he also wanted to keep the cash he found. He
+    continued to walk until he started to remember what he learned last Sunday: it
+    is more blessed to give than receive. "Of course!" John Mark thought to himself.
+    "God blessed me so that I could bless others."  '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bac5bbd7ca8324974b65d3562fb352e6, type: 2}
   m_sharedMaterial: {fileID: -6774977436750214036, guid: bac5bbd7ca8324974b65d3562fb352e6, type: 2}
@@ -2005,8 +2007,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 65
-  m_fontSizeBase: 65
+  m_fontSize: 55
+  m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
